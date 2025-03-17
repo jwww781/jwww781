@@ -1,5 +1,1 @@
-👋 Hi, I'm [Your Name]!  
-🔭 I’m currently working on [Your Project]  
-🌱 I’m learning [Technology or Skills you're learning]  
-💬 Ask me about [Specific technologies or topics]  
-📫 How to reach me: [Your Email or Social Links]  
+안녕하세요 저는 우송대학교 컴퓨터 소프트웨어 학과를 다니고 있는 김정우입니다.
