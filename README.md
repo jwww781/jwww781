@@ -5,7 +5,7 @@
 
 잘 부탁드립니다.
 
-[링크 텍스트](https://github.com/username/repository)
+
 
 
 
